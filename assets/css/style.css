@@ -12,16 +12,14 @@ a {
 	color: #777777;
 	text-decoration: none;
 }
-a:hover{
+a:hover {
 	color:#4aaaa5;
 }
-
-}
-.hfont{
+.hfont {
 	font-family:'Georgia', Times, Times New Roman, serif; 
 	font-style:bold;
 }
-.pfont{
+.pfont {
 	font-family:  'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 }
 .myname {
@@ -30,22 +28,18 @@ a:hover{
 	width:20%;
 	height:60px;
 	padding-top:40px;
-	margin-left: 90px;
-	margin-top:10px; 
-	
+	margin:10px 0px 0px 92px;	
 }
-.name {
-	text-align:center;
+.name{
+	text-align: center;
 	font-size:25px;
 	color:white;
-
 }
-
 .navtab {
 	float:right;
 	margin:50px 200px 0px 0px;
 	color:#d3d3d3;
-	width: 200px;
+	width: 180px;
 	text-decoration: none;	
 }
 .headdiv {
@@ -68,8 +62,7 @@ a:hover{
 }
 .portfoliobody {
 	float:left;
-	margin-top:20px;
-	margin-left:90px;
+	margin:20px 70px 0px 90px;
 	background-color: white;
 	width:400px;
 	height:475px;	
